@@ -8,7 +8,7 @@ This project utilizes the YOLOv9 object detection algorithm from [Roboflow](http
 
 You can download the videos from the files section and the following are some of them
 
-![Video1](lantern1.mp4)
+[![Video1]](lantern1.mp4)
 
 ---
 
