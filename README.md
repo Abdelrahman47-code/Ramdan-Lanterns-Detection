@@ -6,19 +6,7 @@ This project utilizes the YOLOv9 object detection algorithm from [Roboflow](http
 
 ## Demo Detected Videos
 
-You can download the videos from the files section and the following are some of them
-
-[![Video1]](lantern1.mp4)
-
----
-
-![Video1](lantern2.mp4)
-
----
-
-![Video1](lantern3.mp4)
-
----
+You can download the videos from the files section and see the notebook on [Kaggle](https://www.kaggle.com/code/abdelrahmanahmed110/ramadan-lanterns-detection-yolov9)
 
 ### Alhumdallah for Completeing this Project 🤲🙏
 ### Explore the notebook on [Kaggle]() 🚀
